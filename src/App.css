@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300&family=Montserrat&family=Poppins&display=swap');
+
+.App {
+  text-align: center;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title{
+  font-size: 50px;
+}
+
+.line{
+  position: relative;
+  width: 608px;
+  height: 0px;
+  top: 50px;
+  border: 1px solid #BDBDBD;
+}
+
+.btn{
+    display:inline;
+    margin: 20px 60px;
+    max-width: 180px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 30px;
+}
+
